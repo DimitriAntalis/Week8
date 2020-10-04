@@ -1,1 +1,3 @@
 # Week8
+This program this week will use the OS library in order to validate that a directory exists before creating a file in that directory. This program will prompt the user for the directory they would like to save the file in as well as the name of the file. The program will then prompt the user for their name, address, and phone number. This program will write this data to a comma separated line in a file and store the file in the directory specified by the user. 
+Once the data has been written this program will read the file you just wrote to the file system and display the file contents to the user for validation purposes. 
